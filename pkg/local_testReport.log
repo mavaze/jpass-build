@@ -1,0 +1,7 @@
+=== RUN   TestSample
+    sample_test.go:8: Sample test execution
+Sample function to verify coverage
+--- PASS: TestSample (0.00s)
+PASS
+	sample/pkg/sample	coverage: 75.0% of statements
+ok  	sample/pkg/sample	0.003s	coverage: 75.0% of statements

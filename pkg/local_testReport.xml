@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1">
+	<testsuite name="sample/pkg/sample" tests="1" failures="0" errors="0" id="0" hostname="782744e58e59" time="0.003" timestamp="2023-04-12T14:47:26Z">
+		<testcase name="TestSample" classname="sample/pkg/sample" time="0.000">
+			<system-out><![CDATA[    sample_test.go:8: Sample test execution
+Sample function to verify coverage]]></system-out>
+		</testcase>
+		<system-out><![CDATA[	sample/pkg/sample	coverage: 75.0% of statements]]></system-out>
+	</testsuite>
+</testsuites>
